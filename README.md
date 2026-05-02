@@ -13,5 +13,5 @@ I’m actively seeking internship opportunities to apply my skills and grow as a
 
 📫 **Connect With Me:**
 
-* GitHub: github.com/Tanishqkushwah01
+* GitHub: https://github.com/Tanishqkushwah01
 * LinkedIn: www.linkedin.com/in/tanishq-kushwah-41155939a
