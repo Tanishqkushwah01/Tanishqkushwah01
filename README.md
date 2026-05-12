@@ -69,11 +69,11 @@ A modern fitness tracking platform designed with a premium UI/UX experience that
 # 📫 Connect With Me
 
 <p align="left">
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:tanishqkushwah903@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="www.linkedin.com/in/tanishq-kushwah-41155939a">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
