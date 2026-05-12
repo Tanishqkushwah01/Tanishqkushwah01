@@ -1,17 +1,85 @@
-### 🚀 Full Stack Developer | MERN Stack Enthusiast
+<h1 align="center">👋 Hi, I'm Tanishq Kushwah</h1>
 
-Hi, I'm **Tanishq Kushwah**, a 3rd-year B.Tech Computer Science student with a strong focus on **MERN Stack Development**. I enjoy building scalable web applications and solving real-world problems through clean and efficient code.
+<h3 align="center">
+  Full Stack Developer • MERN Stack • Modern UI/UX
+</h3>
 
-💻 **What I Do:**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Responsive+UI+%7C+Scalable+Systems" />
+</p>
 
-* Develop full-stack applications using MongoDB, Express.js, React.js, Node.js
-* Build responsive and user-friendly interfaces
-* Create REST APIs and implement authentication systems
+---
 
-📈 **Looking For:**
-I’m actively seeking internship opportunities to apply my skills and grow as a developer.
+# 🧑‍💻 About Me
 
-📫 **Connect With Me:**
+I am a **3rd-year B.Tech Computer Science student** from **CDGI** with a strong focus on **Full Stack Web Development**.
 
-* GitHub: https://github.com/Tanishqkushwah01
-* LinkedIn: www.linkedin.com/in/tanishq-kushwah-41155939a
+I specialize in building modern, responsive, and scalable web applications using the **MERN Stack**. I enjoy creating clean UI designs, dashboard systems, authentication flows, and production-style applications with modern development practices.
+
+I am passionate about learning new technologies, solving real-world problems, and continuously improving my development skills.
+
+---
+
+# 🚀 Tech Stack
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white)
+
+---
+
+# 🚀 Featured Project
+
+## 🏋️ Track Fit – AI Fitness Tracking Platform
+
+### 🔥 Overview
+A modern fitness tracking platform designed with a premium UI/UX experience that helps users track activities, food logs, calories, and overall fitness progress.
+
+### ⚡ Features
+✅ AI Food Analysis  
+✅ Activity Tracking Dashboard  
+✅ Authentication System  
+✅ Dark & Light Mode  
+✅ Responsive Modern UI  
+✅ Analytics & Progress Tracking  
+✅ MERN Stack Architecture
+
+### 🧠 Tech Used
+`React` `Node.js` `MongoDB` `Express.js` `Tailwind CSS` `TypeScript`
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  🚀 Passionate About Building Modern & Scalable Web Applications
+</p>
