@@ -66,22 +66,20 @@ A modern fitness tracking platform designed with a premium UI/UX experience that
 
 ---
 
-# 📫 Connect With Me
-
 # 📬 Connect With Me
 
 <p align="left">
 
 <a href="mailto:tanishqkushwah903@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/tanish-kushwah-41155939a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/tanishq-kushwah-41155939a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="tel:+919039998427">
-<img src="https://img.shields.io/badge/Mobile-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://wa.me/919039998427">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
